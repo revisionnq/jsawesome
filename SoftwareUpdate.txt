@@ -1,1 +1,1 @@
-Fix OBB xywh-angle concatenation bug (#7404)
+ultralytics 8.1.25 fix **kwargs: (dict) warnings (#8815)
