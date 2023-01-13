@@ -1,1 +1,1 @@
-Add https://youtu.be/R42s2zFtNIY to hub/datasets.md and CoreML image fix (#8085)
+Fix OBB xywh-angle concatenation bug (#7404)
