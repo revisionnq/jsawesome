@@ -1,1 +1,1 @@
-Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
+Add https://youtu.be/3VryynorQeo to README and fix converter.py Docs (#7883)
