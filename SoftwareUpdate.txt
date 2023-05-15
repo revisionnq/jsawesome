@@ -1,1 +1,1 @@
-Batch inference fixes (#8854)
+Rename model_id to model.id (#8447)
