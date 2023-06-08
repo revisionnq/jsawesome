@@ -1,1 +1,1 @@
-New test for labels and crops (#8861)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
