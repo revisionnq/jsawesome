@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+Update Discord and Contributing Guide URLs (#9270)
