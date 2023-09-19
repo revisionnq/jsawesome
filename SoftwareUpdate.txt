@@ -1,1 +1,1 @@
-Add OBB benchmarks to CI (#7777)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
