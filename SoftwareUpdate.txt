@@ -1,1 +1,1 @@
-Update Colab notebook for YOLOv8.1 (#8660)
+Fix Yolo 8.0.206 scale bug (#7821)
