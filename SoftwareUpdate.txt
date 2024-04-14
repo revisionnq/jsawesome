@@ -1,1 +1,1 @@
-Update pyproject.toml [tool.pytest.ini_options] (#9259)
+Compress explorer image in dataset/index.md + description added for new segmentation datasets (#7901)
