@@ -1,1 +1,1 @@
-ultralytics 8.1.23 add YOLOv9-C and E models (#8571)
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
