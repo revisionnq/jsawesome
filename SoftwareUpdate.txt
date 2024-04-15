@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+ultralytics 8.0.231 use new pyproject.toml (#7185)
