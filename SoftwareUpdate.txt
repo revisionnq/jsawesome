@@ -1,1 +1,1 @@
-Add YOLOv8 LibTorch C++ inference example (#7090)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
